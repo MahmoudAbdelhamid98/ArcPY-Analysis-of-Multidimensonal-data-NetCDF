@@ -1,5 +1,5 @@
 # ArcPY-Analysis-of-Multidimensonal-data-NetCDF
-Using ArcPY packages to analyze Multidimensional climate data in NetCDF format
+Using ArcPY packages to create a standalone code to analyze Multidimensional climate data in NetCDF format
 
 ## The code was intended to solve the following problem:
 Given a serious of GPM rainfall data (previously downloaded from the
